@@ -1,0 +1,66 @@
+:root {
+  font-family: 'Inter', sans-serif;
+
+  --bg-clr: #F5EFE7;
+
+  --primary-clr: #D8C4B6;
+  --secundary-clr: #4F709C;
+  --third-clr: #213555;
+  --forth-clr: #116A7B;
+}
+
+
+html {
+  font-size: 62.5%;
+}
+
+*::before,
+*::after,
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-size: 16px;
+  background-color: var(--bg-clr);
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+a {
+  color: black;
+  text-align: none;
+  line-height: 1.3;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 3.6rem;
+}
+
+h3 {
+  font-size: 3.2rem;
+}
+
+h4 {
+  font-size: 2.8rem;
+}
+
+p,
+a {
+  font-size: 1.8rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}

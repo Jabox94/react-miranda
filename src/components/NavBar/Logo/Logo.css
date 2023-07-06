@@ -1,0 +1,15 @@
+.logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-title {
+  background-color: var(--third-clr);
+  color: var(--bg-clr);
+  padding: 0.5rem 1rem;
+
+  text-transform: uppercase;
+  font-size: 1.8em;
+}
