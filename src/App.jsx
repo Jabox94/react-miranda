@@ -6,7 +6,7 @@ import ItemsContainer from './components/ItemsContainer/ItemsContainer'
 import MainBanner from './components/Banners/MainBanner'
 
 function App() {
-  let userName = 'Bienvenido/a a IWI! Que no es uwu'
+  let userName = `Welcome to IWI! Wich isn't uwu`
   return (
     <>
       <Hd />
