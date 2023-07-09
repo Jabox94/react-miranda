@@ -312,8 +312,6 @@
 }
 
 /* Greeting */
-.greeting-container {}
-
 .greeting-title {
   background-color: var(--secundary-clr);
   color: white;
