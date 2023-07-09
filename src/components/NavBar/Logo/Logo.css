@@ -5,6 +5,11 @@
   align-items: center;
 }
 
+.logo a {
+  width: fit-content;
+  height: auto;
+}
+
 .logo-title {
   background-color: var(--third-clr);
   color: var(--bg-clr);
